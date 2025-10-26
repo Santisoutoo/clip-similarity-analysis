@@ -1,0 +1,112 @@
+{
+    "clouds": [
+        {
+            "filename": "altoestrato.jpg",
+            "description": "Gray cloud covering the sun and sky"
+        },
+        {
+            "filename": "cirrocumulus.jpg",
+            "description": "Big white and spreaded clouds across the sky"
+        },
+        {
+            "filename": "cirros.jpg",
+            "description": "Thin and high clouds. They look like feathers"
+        },
+        {
+            "filename": "cumulonimbus.jpg",
+            "description": "Tall cloud that looks like an explotion"
+        },
+        {
+            "filename": "cumulos.jpg",
+            "description": "Big white and spreaded clouds across the sky"
+        }
+    ],
+    "drinks": [
+        {
+            "filename": "fanta.png",
+            "description": "Orange soda in a glass of bottle. Yellow loquid inside with an orange label"
+        },
+        {
+            "filename": "gazpacho.jpeg",
+            "description": "tomato soup in a tall glass. Orange-red color."
+        },
+        {
+            "filename": "vinos-tinto.jpg",
+            "description": "Red wine pouring from bottle into wine glass. "
+        },
+        {
+            "filename": "water.jpg",
+            "description": "Water pouring into a glass. No color"
+        },
+        {
+            "filename": "wine.jpg",
+            "description": "White wine in a wine glass. Light yellow colored."
+        }
+    ],
+    "food": [
+        {
+            "filename": "Cheese.jpg",
+            "description": "Block of cheese eith brown edges. Sliced into thing portions."
+        },
+        {
+            "filename": "beef.jpg",
+            "description": "Raw beef steack with bone with fat in the middle"
+        },
+        {
+            "filename": "pasta.jpg",
+            "description": "Red spaghetti with red meat sauce on top. Served on a black plate"
+        },
+        {
+            "filename": "pizza.jpg",
+            "description": "Round pizza with cheese, ham pieces, mushrooms and onions."
+        },
+        {
+            "filename": "tortilla.jpg",
+            "description": "Potato omelette, round thick. It is folder and brown"
+        }
+    ],
+    "planes": [
+        {
+            "filename": "350.jpg",
+            "description": "Aircraft equiped with a twin propoller engine. Black and red stripes."
+        },
+        {
+            "filename": "737.jpg",
+            "description": "Two jet engine. Blue and white colors with '737' word on the tail. "
+        },
+        {
+            "filename": "747-400.jpg",
+            "description": "Large plane with four engines. Blue and white with '747 on the tail'"
+        },
+        {
+            "filename": "A320.jpg",
+            "description": "Two engines. White and yellow engine covers owned by Vueling."
+        },
+        {
+            "filename": "C172.jpg",
+            "description": "One propeller engine with red stripes."
+        }
+    ],
+    "racing_cars": [
+        {
+            "filename": "Porsche.jpg",
+            "description": "Red and white car with PENSKE written on the side."
+        },
+        {
+            "filename": "aston-martin.jpg",
+            "description": "green car with 007 number on the front. Large rear wind. Driving at sunset"
+        },
+        {
+            "filename": "bmw.jpg",
+            "description": "White car with blue and red stripes. Number 2024. Racing on track"
+        },
+        {
+            "filename": "ferrari.jpg",
+            "description": "Red and yellow car with number 50: shell and ferrari logos."
+        },
+        {
+            "filename": "peugeot.jpg",
+            "description": "Grey car with some yellow points. Number 93 and no rear wind"
+        }
+    ]
+}
